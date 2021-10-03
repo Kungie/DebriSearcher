@@ -192,6 +192,3 @@ export default function App() {
     </View>
   );
 }
-
-//yellow  #fbe99e
-//blue  #343e7a
