@@ -2,7 +2,7 @@
 
 The aim of our project is to locate and decrease the level of marine debris by using artificial intelligence and machine learning. In order to comprehend the concept of our project, we need a deep understanding of AI and ML and how do they work.
 
-# WHAT IS ARTIFICIAL INTELLIGENCE?
+## WHAT IS ARTIFICIAL INTELLIGENCE?
 
 Artificial intelligence is the common name of a program that leverages computers to mimic the problem-solving and decision-making capabilities of human minds.[1] AI is not as perfect as human minds but that makes it more useful and easy to use since it can be used for particular purposes.
 
