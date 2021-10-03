@@ -15,12 +15,6 @@ export default function App() {
   console.log("App Executed");
   console.log(Dimensions.get("screen"));
 
-  const onClick = () => {
-    Vibration.vibrate();
-    console.log("Button Clicked");
-    Alert.prompt("Alert", "How are u today?", (text) => console.log(text));
-  };
-
   return (
     <View
       style={{
