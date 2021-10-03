@@ -9,7 +9,7 @@ export default function App() {
     <View
       style={{
         flex: 1,
-        backgroundColor: "#202020",
+        backgroundColor: "#343e9a",
         display: "flex",
         justifyContent: "flex-end",
       }}
@@ -18,7 +18,7 @@ export default function App() {
         style={{
           zIndex: 3,
           position: "absolute",
-          backgroundColor: "#252525",
+          backgroundColor: "#343e9a",
           opacity: 0.8,
           borderRadius: "10%",
           width: "45%",
@@ -44,7 +44,7 @@ export default function App() {
         style={{
           zIndex: 3,
           position: "absolute",
-          backgroundColor: "#202020",
+          backgroundColor: "#343e9a",
           opacity: 0.8,
           borderRadius: "10%",
           width: "40%",
@@ -63,7 +63,7 @@ export default function App() {
             color: "white",
           }}
         >
-          Depth: 2700m {"\n"}Density: Medium {"\n"}Diameter: 100m {"\n"}Average
+          Depth: 2700m {"\n"}Density: Medium {"\n"}Diameter: 200m {"\n"}Average
           Size of Plastics: 5cm
         </Text>
       </View>
@@ -125,7 +125,7 @@ export default function App() {
       />
       <View
         style={{
-          backgroundColor: "#252525",
+          backgroundColor: "#343e9a",
           width: "100%",
           height: "12%",
           display: "flex",
@@ -136,7 +136,7 @@ export default function App() {
       >
         <View
           style={{
-            backgroundColor: "#202020",
+            backgroundColor: "#343e9a",
             flex: 1,
             display: "flex",
             alignItems: "center",
@@ -154,7 +154,7 @@ export default function App() {
         </View>
         <View
           style={{
-            backgroundColor: "#252525",
+            backgroundColor: "#343e8a",
             flex: 2,
             display: "flex",
             alignItems: "center",
@@ -166,13 +166,13 @@ export default function App() {
             source={require("./assets/2820184-200.png")}
             style={{
               height: "80%",
-              width: "40%",
+              width: "42%",
             }}
           ></Image>
         </View>
         <View
           style={{
-            backgroundColor: "#202020",
+            backgroundColor: "#343e9a",
             flex: 1,
             display: "flex",
             alignItems: "center",
